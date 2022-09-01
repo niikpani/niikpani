@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niikpani
-- 👀 I’m interested in coding
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me ... niikpani@proton.me
 
